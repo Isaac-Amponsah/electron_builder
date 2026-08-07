@@ -59,7 +59,7 @@
 	},
 	"homepage": "https://github.com/Isaac-Amponsah/pos_system#readme",
 	"devDependencies": {
-		"electron": "^40.8.0",
+		"electron": "^41.10.3",
 		"electron-builder": "^26.8.1"
 	}
 }
